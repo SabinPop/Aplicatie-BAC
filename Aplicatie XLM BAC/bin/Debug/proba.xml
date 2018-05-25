@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<bac2016>
+  <elev>
+    <nume>p</nume>
+    <clasa>p</clasa>
+    <specializare>p</specializare>
+    <sectia>p</sectia>
+    <program_studiu>p</program_studiu>
+    <a_exam>p</a_exam>
+    <a_nota>p</a_nota>
+    <b_exam>p</b_exam>
+    <b_nota>p</b_nota>
+    <c_exam>p</c_exam>
+    <c_nota>p</c_nota>
+    <d_exam>p</d_exam>
+    <d_nota>p</d_nota>
+    <e_exam>p</e_exam>
+    <e_nota>p</e_nota>
+    <f_exam>p</f_exam>
+    <f_nota>p</f_nota>
+    <g_exam>p</g_exam>
+    <g_nota>p</g_nota>
+    <h_exam>p</h_exam>
+    <h_nota>p</h_nota>
+  </elev>
+  <elev>
+    <nume />
+    <clasa />
+    <specializare />
+    <sectia />
+    <program_studiu />
+    <a_exam />
+    <a_nota />
+    <b_exam />
+    <b_nota />
+    <c_exam />
+    <c_nota />
+    <d_exam />
+    <d_nota />
+    <e_exam />
+    <e_nota />
+    <f_exam />
+    <f_nota />
+    <g_exam />
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+</bac2016>

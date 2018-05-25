@@ -1,0 +1,17 @@
+C:\Users\Sabin\Documents\Visual Studio 2015\Projects\Aplicatie XLM BAC\Aplicatie XLM BAC\bin\Debug\Aplicatie XML BAC.exe.config
+C:\Users\Sabin\Documents\Visual Studio 2015\Projects\Aplicatie XLM BAC\Aplicatie XLM BAC\bin\Debug\Aplicatie XML BAC.exe.manifest
+C:\Users\Sabin\Documents\Visual Studio 2015\Projects\Aplicatie XLM BAC\Aplicatie XLM BAC\bin\Debug\Aplicatie XML BAC.application
+C:\Users\Sabin\Documents\Visual Studio 2015\Projects\Aplicatie XLM BAC\Aplicatie XLM BAC\bin\Debug\Aplicatie XML BAC.XML
+C:\Users\Sabin\Documents\Visual Studio 2015\Projects\Aplicatie XLM BAC\Aplicatie XLM BAC\bin\Debug\Aplicatie XML BAC.exe
+C:\Users\Sabin\Documents\Visual Studio 2015\Projects\Aplicatie XLM BAC\Aplicatie XLM BAC\bin\Debug\Aplicatie XML BAC.pdb
+C:\Users\Sabin\Documents\Visual Studio 2015\Projects\Aplicatie XLM BAC\Aplicatie XLM BAC\obj\Debug\Aplicatie_XML_BAC.Form1.resources
+C:\Users\Sabin\Documents\Visual Studio 2015\Projects\Aplicatie XLM BAC\Aplicatie XLM BAC\obj\Debug\Aplicatie_XML_BAC.Form2.resources
+C:\Users\Sabin\Documents\Visual Studio 2015\Projects\Aplicatie XLM BAC\Aplicatie XLM BAC\obj\Debug\Aplicatie_XML_BAC.Form3.resources
+C:\Users\Sabin\Documents\Visual Studio 2015\Projects\Aplicatie XLM BAC\Aplicatie XLM BAC\obj\Debug\Aplicatie_XML_BAC.Properties.Resources.resources
+C:\Users\Sabin\Documents\Visual Studio 2015\Projects\Aplicatie XLM BAC\Aplicatie XLM BAC\obj\Debug\Aplicatie_XML_BAC.Settings.resources
+C:\Users\Sabin\Documents\Visual Studio 2015\Projects\Aplicatie XLM BAC\Aplicatie XLM BAC\obj\Debug\Aplicatie XLM BAC.csproj.GenerateResource.cache
+C:\Users\Sabin\Documents\Visual Studio 2015\Projects\Aplicatie XLM BAC\Aplicatie XLM BAC\obj\Debug\Aplicatie XLM BAC.csproj.CoreCompileInputs.cache
+C:\Users\Sabin\Documents\Visual Studio 2015\Projects\Aplicatie XLM BAC\Aplicatie XLM BAC\obj\Debug\Aplicatie XML BAC.exe.manifest
+C:\Users\Sabin\Documents\Visual Studio 2015\Projects\Aplicatie XLM BAC\Aplicatie XLM BAC\obj\Debug\Aplicatie XML BAC.application
+C:\Users\Sabin\Documents\Visual Studio 2015\Projects\Aplicatie XLM BAC\Aplicatie XLM BAC\obj\Debug\Aplicatie XML BAC.exe
+C:\Users\Sabin\Documents\Visual Studio 2015\Projects\Aplicatie XLM BAC\Aplicatie XLM BAC\obj\Debug\Aplicatie XML BAC.pdb

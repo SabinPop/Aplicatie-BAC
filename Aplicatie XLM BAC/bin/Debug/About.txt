@@ -1,0 +1,2 @@
+Numele produsului: Aplicatie XML BAC
+Versiunea: 2.1.5.35

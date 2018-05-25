@@ -1,0 +1,187 @@
+<?xml version="1.0" standalone="yes"?>
+<bac2016>
+  <elev>
+    <nume>12m3kaskdkam</nume>
+    <clasa />
+    <specializare />
+    <sectia />
+    <program_studiu />
+    <a_exam>Limba şi literatura română (REAL) - oral</a_exam>
+    <a_nota />
+    <b_exam />
+    <b_nota />
+    <c_exam />
+    <c_nota />
+    <d_exam />
+    <d_nota />
+    <e_exam>Limba şi literatura română (REAL) - scris</e_exam>
+    <e_nota />
+    <f_exam />
+    <f_nota />
+    <g_exam />
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>qweqdqwe</nume>
+    <clasa />
+    <specializare />
+    <sectia />
+    <program_studiu />
+    <a_exam>Limba şi literatura română (REAL) - oral</a_exam>
+    <a_nota />
+    <b_exam />
+    <b_nota />
+    <c_exam />
+    <c_nota />
+    <d_exam />
+    <d_nota />
+    <e_exam>Limba şi literatura română (REAL) - scris</e_exam>
+    <e_nota />
+    <f_exam />
+    <f_nota />
+    <g_exam />
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>qweqwe</nume>
+    <clasa>w</clasa>
+    <specializare />
+    <sectia />
+    <program_studiu />
+    <a_exam>Limba şi literatura română (REAL) - oral</a_exam>
+    <a_nota />
+    <b_exam />
+    <b_nota />
+    <c_exam />
+    <c_nota />
+    <d_exam />
+    <d_nota />
+    <e_exam>Limba şi literatura română (REAL) - scris</e_exam>
+    <e_nota />
+    <f_exam />
+    <f_nota />
+    <g_exam />
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>1real</nume>
+    <clasa />
+    <specializare />
+    <sectia />
+    <program_studiu />
+    <a_exam>Limba şi literatura română (REAL) - oral</a_exam>
+    <a_nota />
+    <b_exam />
+    <b_nota />
+    <c_exam />
+    <c_nota />
+    <d_exam />
+    <d_nota />
+    <e_exam>Limba şi literatura română (REAL) - scris</e_exam>
+    <e_nota />
+    <f_exam />
+    <f_nota />
+    <g_exam />
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>2uman</nume>
+    <clasa />
+    <specializare />
+    <sectia />
+    <program_studiu />
+    <a_exam>Limba şi literatura română (UMAN) - oral</a_exam>
+    <a_nota />
+    <b_exam />
+    <b_nota />
+    <c_exam />
+    <c_nota />
+    <d_exam />
+    <d_nota />
+    <e_exam>Limba şi literatura română (UMAN) - scris</e_exam>
+    <e_nota />
+    <f_exam />
+    <f_nota />
+    <g_exam />
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>progressbar</nume>
+    <clasa>test </clasa>
+    <specializare>test test </specializare>
+    <sectia>test </sectia>
+    <program_studiu>test</program_studiu>
+    <a_exam>Limba şi literatura română (REAL) - oral</a_exam>
+    <a_nota />
+    <b_exam />
+    <b_nota />
+    <c_exam />
+    <c_nota />
+    <d_exam />
+    <d_nota />
+    <e_exam>Limba şi literatura română (REAL) - scris</e_exam>
+    <e_nota />
+    <f_exam />
+    <f_nota />
+    <g_exam />
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume />
+    <clasa />
+    <specializare />
+    <sectia />
+    <program_studiu />
+    <a_exam>Limba şi literatura română (UMAN) - oral</a_exam>
+    <a_nota />
+    <b_exam />
+    <b_nota />
+    <c_exam />
+    <c_nota />
+    <d_exam />
+    <d_nota />
+    <e_exam>Limba şi literatura română (UMAN) - scris</e_exam>
+    <e_nota />
+    <f_exam />
+    <f_nota />
+    <g_exam />
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>3</nume>
+    <clasa />
+    <specializare />
+    <sectia />
+    <program_studiu />
+    <a_exam>Limba şi literatura română (UMAN) - oral</a_exam>
+    <a_nota />
+    <b_exam />
+    <b_nota />
+    <c_exam />
+    <c_nota />
+    <d_exam />
+    <d_nota />
+    <e_exam>Limba şi literatura română (UMAN) - scris</e_exam>
+    <e_nota />
+    <f_exam />
+    <f_nota />
+    <g_exam />
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+</bac2016>

@@ -1,0 +1,141 @@
+<?xml version="1.0" standalone="yes"?>
+<bac2018>
+  <elev>
+    <nume />
+    <clasa />
+    <specializare />
+    <sectia />
+    <program_studiu />
+    <a_exam>Limba şi literatura română</a_exam>
+    <a_nota />
+    <b_exam />
+    <b_nota />
+    <c_exam />
+    <c_nota />
+    <d_exam>Competențe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română</e_exam>
+    <e_nota />
+    <f_exam />
+    <f_nota />
+    <g_exam />
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume />
+    <clasa />
+    <specializare />
+    <sectia />
+    <program_studiu />
+    <a_exam>Limba şi literatura română</a_exam>
+    <a_nota />
+    <b_exam />
+    <b_nota />
+    <c_exam />
+    <c_nota />
+    <d_exam>Competențe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română</e_exam>
+    <e_nota />
+    <f_exam />
+    <f_nota />
+    <g_exam />
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume />
+    <clasa />
+    <specializare />
+    <sectia />
+    <program_studiu />
+    <a_exam>Limba şi literatura română</a_exam>
+    <a_nota />
+    <b_exam />
+    <b_nota />
+    <c_exam />
+    <c_nota />
+    <d_exam>Competențe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română</e_exam>
+    <e_nota />
+    <f_exam />
+    <f_nota />
+    <g_exam />
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume />
+    <clasa />
+    <specializare />
+    <sectia />
+    <program_studiu />
+    <a_exam>Limba şi literatura română</a_exam>
+    <a_nota />
+    <b_exam />
+    <b_nota />
+    <c_exam />
+    <c_nota />
+    <d_exam>Competențe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română</e_exam>
+    <e_nota />
+    <f_exam />
+    <f_nota />
+    <g_exam />
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume />
+    <clasa />
+    <specializare />
+    <sectia />
+    <program_studiu />
+    <a_exam>Limba şi literatura română</a_exam>
+    <a_nota />
+    <b_exam />
+    <b_nota />
+    <c_exam />
+    <c_nota />
+    <d_exam>Competențe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română</e_exam>
+    <e_nota />
+    <f_exam />
+    <f_nota />
+    <g_exam />
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume />
+    <clasa />
+    <specializare />
+    <sectia />
+    <program_studiu />
+    <a_exam>Limba şi literatura română (UMAN) - oral</a_exam>
+    <a_nota />
+    <b_exam />
+    <b_nota />
+    <c_exam />
+    <c_nota />
+    <d_exam />
+    <d_nota />
+    <e_exam>Limba şi literatura română (UMAN) - scris</e_exam>
+    <e_nota />
+    <f_exam />
+    <f_nota />
+    <g_exam />
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+</bac2018>

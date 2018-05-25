@@ -1,0 +1,605 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Aplicatie XML BAC</name>
+    </assembly>
+    <members>
+        <member name="T:Aplicatie_XML_BAC.Elev">
+            <summary>
+            Clasa Elev.
+            Conține tipul de date 'elev' și metodele aferente utilizării acestuia.
+            </summary>
+        </member>
+        <member name="M:Aplicatie_XML_BAC.Elev.#ctor(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Tipul de date 'elev'.
+            </summary>
+            <param name="nume">Un șir de caractere ce reprezintă numele.</param>
+            <param name="clasa">Un șir de caractere ce reprezintă clasa.</param>
+            <param name="specializare">Un șir de caractere ce reprezintă specializarea.</param>
+            <param name="sectia">Un șir de caractere ce reprezint secția.</param>
+            <param name="program_studiu">Un șir de caractere ce reprezintă programul de studiu.</param>
+            <param name="a_exam">Un șir de caractere ce reprezintă proba orală la limba romînă.</param>
+            <param name="a_nota">Un șir de caractere  ce reprezintă calificativul obținut la proba orală la limba română.</param>
+            <param name="b_exam">Un șir de caractere ce reprezintă proba orală la limba maternă.</param>
+            <param name="b_nota">Un șir de caractere ce reprezintă nota obținută la proba orală la limba maternă.</param>
+            <param name="c_exam">Un șir de caractere ce reprezintă limba străină la care a fost susținută proba.</param>
+            <param name="c_nota">Un șir de caractere ce reprezintă calificativele obținute la limba străină.</param>
+            <param name="d_exam">Un șir de caractere ce reprezintă competențele digitale.</param>
+            <param name="d_nota">Un șir de caractere ce reprezintă nota obținută la competențele digitale.</param>
+            <param name="e_exam">Un șir de caractere ce reprezintă limba română.</param>
+            <param name="e_nota">Un șir de caractere ce reprezintă nota obținută la limba română.</param>
+            <param name="f_exam">Un șir de caractere ce reprezintă limba maternă.</param>
+            <param name="f_nota">Un șir de caractere ce reprezintă nota obținută la limba maternă.</param>
+            <param name="g_exam">Un șir de caractere ce reprezintă disciplina obligatorie a specializării.</param>
+            <param name="g_nota">Un șir de caractere ce reprezintă nota obținută la disciplina obligatorie a specializării.</param>
+            <param name="h_exam">Un șir de caractere ce reprezintă disciplina la alegere.</param>
+            <param name="h_nota">Un șir de caractere ce reprezintă nota obținută la disciplina la alegere.</param>
+        </member>
+        <member name="P:Aplicatie_XML_BAC.Elev.Nume">
+            <summary>
+            Modifică sau returnează valoarea câmpului
+            </summary>
+        </member>
+        <member name="P:Aplicatie_XML_BAC.Elev.Clasa">
+            <summary>
+            Modifică sau returnează valoarea câmpului
+            </summary>
+        </member>
+        <member name="P:Aplicatie_XML_BAC.Elev.Specializare">
+            <summary>
+            Modifică sau returnează valoarea câmpului
+            </summary>
+        </member>
+        <member name="P:Aplicatie_XML_BAC.Elev.Sectia">
+            <summary>
+            Modifică sau returnează valoarea câmpului
+            </summary>
+        </member>
+        <member name="P:Aplicatie_XML_BAC.Elev.Program_studiu">
+            <summary>
+            Modifică sau returnează valoarea câmpului
+            </summary>
+        </member>
+        <member name="P:Aplicatie_XML_BAC.Elev.A_exam">
+            <summary>
+            Modifică sau returnează valoarea câmpului
+            </summary>
+        </member>
+        <member name="P:Aplicatie_XML_BAC.Elev.A_nota">
+            <summary>
+            Modifică sau returnează valoarea câmpului
+            </summary>
+        </member>
+        <member name="P:Aplicatie_XML_BAC.Elev.B_exam">
+            <summary>
+            Modifică sau returnează valoarea câmpului
+            </summary>
+        </member>
+        <member name="P:Aplicatie_XML_BAC.Elev.B_nota">
+            <summary>
+            Modifică sau returnează valoarea câmpului
+            </summary>
+        </member>
+        <member name="P:Aplicatie_XML_BAC.Elev.C_exam">
+            <summary>
+            Modifică sau returnează valoarea câmpului
+            </summary>
+        </member>
+        <member name="P:Aplicatie_XML_BAC.Elev.C_nota">
+            <summary>
+            Modifică sau returnează valoarea câmpului
+            </summary>
+        </member>
+        <member name="P:Aplicatie_XML_BAC.Elev.D_exam">
+            <summary>
+            Modifică sau returnează valoarea câmpului
+            </summary>
+        </member>
+        <member name="P:Aplicatie_XML_BAC.Elev.D_nota">
+            <summary>
+            Modifică sau returnează valoarea câmpului
+            </summary>
+        </member>
+        <member name="P:Aplicatie_XML_BAC.Elev.E_exam">
+            <summary>
+            Modifică sau returnează valoarea câmpului
+            </summary>
+        </member>
+        <member name="P:Aplicatie_XML_BAC.Elev.E_nota">
+            <summary>
+            Modifică sau returnează valoarea câmpului
+            </summary>
+        </member>
+        <member name="P:Aplicatie_XML_BAC.Elev.F_exam">
+            <summary>
+            Modifică sau returnează valoarea câmpului
+            </summary>
+        </member>
+        <member name="P:Aplicatie_XML_BAC.Elev.F_nota">
+            <summary>
+            Modifică sau returnează valoarea câmpului
+            </summary>
+        </member>
+        <member name="P:Aplicatie_XML_BAC.Elev.G_exam">
+            <summary>
+            Modifică sau returnează valoarea câmpului
+            </summary>
+        </member>
+        <member name="P:Aplicatie_XML_BAC.Elev.G_nota">
+            <summary>
+            Modifică sau returnează valoarea câmpului
+            </summary>
+        </member>
+        <member name="P:Aplicatie_XML_BAC.Elev.H_exam">
+            <summary>
+            Modifică sau returnează valoarea câmpului
+            </summary>
+        </member>
+        <member name="P:Aplicatie_XML_BAC.Elev.H_nota">
+            <summary>
+            Modifică sau returnează valoarea câmpului
+            </summary>
+        </member>
+        <member name="T:Aplicatie_XML_BAC.Form1">
+            <summary>
+            Clasa ferestrei principale
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form1.log">
+            <summary>
+            Creează o nouă instanță a clasei Log.
+            Folosită pentru înregistrarea acțiunilor aplicației.
+            </summary>
+        </member>
+        <member name="M:Aplicatie_XML_BAC.Form1.#ctor">
+            <summary>
+            Fereastra principală.
+            Conține metodele pentru executarea comenzilor date.
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form1.dataSet">
+            <summary>
+            Creează o nouă instanță pentru setul de date folosit.
+            </summary>
+            <remarks>
+            Adaugă anul curent în denumirea nodului rădăcină al fișierului folosit.
+            </remarks>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form1.index">
+            <summary>
+            Indexul elevului.
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form1.filename">
+            <summary>
+            Numele (sau locația) fișierului de intrare (sau ieșire) folosit.
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form1.fn">
+            <summary>
+            Numele fișierului de dinaintea creării unuia de rezervă.
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form1.numar_elevi">
+            <summary>
+            Numărul elevilor din baza de date.
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form1.open">
+            <summary>
+            Operator de tip bool folosit pentru a reține dacă a fost deschis un fișier.
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form1.save">
+            <summary>
+            Operator de tip bool folosit pentru a reține dacă a fost salvat fișierul.
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form1.elevi">
+            <summary>
+            Lista tuturor elevilor din baza de date folosită.
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form1.backupfilename">
+            <summary>
+            Indexul fișierului de rezervă folosit.
+            </summary>
+        </member>
+        <member name="M:Aplicatie_XML_BAC.Form1.About(System.String,System.String)">
+            <summary>
+            Creează și actualizează fișierul 'About.txt' cu informații despre aplicație.
+            </summary>
+            <param name="name">Șir de caractere ce reprezintă numele produsului.</param>
+            <param name="ver">Șir de caractere ce reprezintă versiunea aplicației.</param>
+        </member>
+        <member name="M:Aplicatie_XML_BAC.Form1.Form1_FormClosing(System.Object,System.Windows.Forms.FormClosingEventArgs)">
+            <summary>
+            Metodă folosită la închiderea ferestrei.
+            </summary>
+            <param name="sender">Obiectul care a cauzat acțiunea.</param>
+            <param name="e">Detalii referitoare la acțiune.</param>
+        </member>
+        <member name="M:Aplicatie_XML_BAC.Form1.ComboBox1_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            Casetă de selecție pentru programul de studiu.
+            </summary>
+            <param name="sender">Obiectul care a cauzat acțiunea.</param>
+            <param name="e">Detalii referitoare la acțiune.</param>
+        </member>
+        <member name="M:Aplicatie_XML_BAC.Form1.SaveDialog">
+            <summary>
+            Metodă ce deschide un dialog de salvare a fișierului.
+            </summary>
+        </member>
+        <member name="M:Aplicatie_XML_BAC.Form1.ImportData(System.Int32)">
+            <summary>
+            Metodă prin care se completează câmpurile din prima fereastră a aplicației pe baza indexului dat.
+            </summary>
+            <param name="index">Număr natural ce reprezintă indexul elevului.</param>
+        </member>
+        <member name="P:Aplicatie_XML_BAC.Form1.IfNotEmpty">
+            <summary>
+            Valoare prin care se verifică dacă toate câmpurile au fost completate.
+            </summary>
+        </member>
+        <member name="M:Aplicatie_XML_BAC.Form1.EmptyTextBoxes">
+            <summary>
+            Metodă care golește conținutul tuturor câmpurilor.
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Aplicatie_XML_BAC.Form1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Aplicatie_XML_BAC.Form1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form1.nume">
+            <summary>
+            Casetă text.
+            Se poate modifica conținutul câmpului.
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form1.clasa">
+            <summary>
+            Casetă text.
+            Se poate modifica conținutul câmpului.
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form1.specializare">
+            <summary>
+            Casetă text.
+            Se poate modifica conținutul câmpului.
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form1.sectia">
+            <summary>
+            Casetă text.
+            Se poate modifica conținutul câmpului.
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form1.program_studiu">
+            <summary>
+            Casetă text.
+            Se poate modifica conținutul câmpului.
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form1.b_exam">
+            <summary>
+            Casetă text.
+            Se poate modifica conținutul câmpului.
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form1.b_nota">
+            <summary>
+            Casetă text.
+            Se poate modifica conținutul câmpului.
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form1.a_nota">
+            <summary>
+            Casetă text.
+            Se poate modifica conținutul câmpului.
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form1.c_exam">
+            <summary>
+            Casetă text.
+            Se poate modifica conținutul câmpului.
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form1.c_nota">
+            <summary>
+            Casetă text.
+            Se poate modifica conținutul câmpului.
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form1.d_exam">
+            <summary>
+            Casetă text.
+            Se poate modifica conținutul câmpului.
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form1.d_nota">
+            <summary>
+            Casetă text.
+            Nu se poate modifica conținutul câmpului.
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form1.e_exam">
+            <summary>
+            Casetă text.
+            Se poate modifica conținutul câmpului.
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form1.e_nota">
+            <summary>
+            Casetă text.
+            Nu se poate modifica conținutul câmpului.
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form1.f_exam">
+            <summary>
+            Casetă text.
+            Se poate modifica conținutul câmpului.
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form1.f_nota">
+            <summary>
+            Casetă text.
+            Se poate modifica conținutul câmpului.
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form1.g_exam">
+            <summary>
+            Casetă text.
+            Se poate modifica conținutul câmpului.
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form1.g_nota">
+            <summary>
+            Casetă text.
+            Se poate modifica conținutul câmpului.
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form1.h_exam">
+            <summary>
+            Casetă text.
+            Se poate modifica conținutul câmpului.
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form1.h_nota">
+            <summary>
+            Casetă text.
+            Se poate modifica conținutul câmpului.
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form1.a_exam">
+            <summary>
+            Casetă text.
+            Nu se poate modifica conținutul câmpului.
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form1.comboBox1">
+            <summary>
+            Casetă cu opțiuni multiple.
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form1.progressBar1">
+            <summary>
+            Bară de progres.
+            </summary>
+        </member>
+        <member name="M:Aplicatie_XML_BAC.Form1.Export_HTML(System.String)">
+            <summary>
+            Metodă prin care se exportă baza de date în format HTML.
+            </summary>
+            <param name="filename">Numele fișierului (sau locația) în exportă datele.</param>
+        </member>
+        <member name="T:Aplicatie_XML_BAC.Form2">
+            <summary>
+            Clasa ferestrei de salvare.
+            </summary>
+        </member>
+        <member name="M:Aplicatie_XML_BAC.Form2.#ctor">
+            <summary>
+            Metoda principală a clasei.
+            </summary>
+        </member>
+        <member name="M:Aplicatie_XML_BAC.Form2.GetData">
+            <summary>
+            Metodă folosită pentru returnarea datelor.
+            </summary>
+            <returns>Returnează numele elevului sub formă de text.</returns>
+        </member>
+        <member name="M:Aplicatie_XML_BAC.Form2.Confirm_Click(System.Object,System.EventArgs)">
+            <summary>
+            Selectarea opțiunii de dialog.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form2.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Aplicatie_XML_BAC.Form2.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Aplicatie_XML_BAC.Form2.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Aplicatie_XML_BAC.Form3">
+            <summary>
+            Clasa ferestrei de detalii
+            </summary>
+        </member>
+        <member name="M:Aplicatie_XML_BAC.Form3.#ctor">
+            <summary>
+            Metoda principală
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form3.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Aplicatie_XML_BAC.Form3.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Aplicatie_XML_BAC.Form3.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form3.textBoxNume">
+            <summary>
+            Casetă de text.
+            Detalii.
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Form3.nume">
+            <summary>
+            Numele elevului.
+            </summary>
+        </member>
+        <member name="T:Aplicatie_XML_BAC.Log">
+            <summary>
+            Clasa evenimentului de Log / debug și înregistrarea mesajelor.
+            </summary>
+        </member>
+        <member name="M:Aplicatie_XML_BAC.Log.Message(System.String)">
+            <summary>
+            Metodă folosită pentru înregistrarea diferitor acțiuni ale aplicației.
+            Funcție de Debug.
+            </summary>
+            <remarks>
+            Înregistrează totul în fișierul 'act.log'
+            </remarks>
+            <param name="msg">Șir de caractere ce reprezintă mesajul transmis.</param>
+        </member>
+        <member name="M:Aplicatie_XML_BAC.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:Aplicatie_XML_BAC.Settings">
+            <summary>
+            Clasa setărilor
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Settings.log">
+            <summary>
+            Creează o nouă instanță a clasei Log.
+            Folosită pentru înregistrarea acțiunilor aplicației.
+            </summary>
+        </member>
+        <member name="M:Aplicatie_XML_BAC.Settings.#ctor">
+            <summary>
+            Inițiaizeală instanța clasei de setări
+            </summary>
+        </member>
+        <member name="F:Aplicatie_XML_BAC.Settings.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Aplicatie_XML_BAC.Settings.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Aplicatie_XML_BAC.Settings.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Aplicatie_XML_BAC.AppSettings`1">
+            <summary>
+            Clasa responsabilă de setările aplicației.
+            </summary>
+            <typeparam name="T">Tipul de obiect al setărilor.</typeparam>
+        </member>
+        <member name="M:Aplicatie_XML_BAC.AppSettings`1.Save(System.String)">
+            <summary>
+            Metodă folosită pentru salvarea setărilor.
+            </summary>
+            <param name="fileName">Numele fișierului de setări.</param>
+        </member>
+        <member name="M:Aplicatie_XML_BAC.AppSettings`1.Save(`0,System.String)">
+            <summary>
+            Metodă folosită pentru salvarea setărilor.
+            </summary>
+            <param name="pSettings">Variabilă de tip obiect.</param>
+            <param name="fileName">Numele fișierului de setări.</param>
+        </member>
+        <member name="M:Aplicatie_XML_BAC.AppSettings`1.Load(System.String)">
+            <summary>
+            Metodă folosită pentru încărcarea setărilor.
+            </summary>
+            <param name="fileName">Numele fișierului de setări</param>
+            <returns></returns>
+        </member>
+        <member name="T:Aplicatie_XML_BAC.MySettings">
+            <summary>
+            Clasa de variabile a setărilor.
+            Folosită pentru memorarea și modificarea setărilor.
+            </summary>
+        </member>
+        <member name="P:Aplicatie_XML_BAC.MySettings.Debug">
+            <summary>
+            Variabilă folosită pentru modificarea setărilor de debug.
+            </summary>
+        </member>
+        <member name="P:Aplicatie_XML_BAC.MySettings.Popup">
+            <summary>
+            Variabilă folosită pentru modificarea setărilor de pupup.
+            </summary>
+        </member>
+        <member name="T:Aplicatie_XML_BAC.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Aplicatie_XML_BAC.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Aplicatie_XML_BAC.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:Aplicatie_XML_BAC.Properties.Resources.Debug">
+            <summary>
+              Looks up a localized string similar to 1.
+            </summary>
+        </member>
+    </members>
+</doc>

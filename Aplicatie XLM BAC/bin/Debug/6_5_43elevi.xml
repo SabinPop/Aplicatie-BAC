@@ -1,0 +1,4258 @@
+<?xml version="1.0" standalone="yes"?>
+<bac2018>
+  <elev>
+    <nume>Apostol Cristina Alexandra</nume>
+    <clasa>12e</clasa>
+    <specializare>Filologie</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română (UMAN) - oral</a_exam>
+    <a_nota>E</a_nota>
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba franceză</c_exam>
+    <c_nota>REC</c_nota>
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota>REC</d_nota>
+    <e_exam>Limba şi literatura română (UMAN) - scris</e_exam>
+    <e_nota>8.05</e_nota>
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota>10</g_nota>
+    <h_exam>Sociologie</h_exam>
+    <h_nota>9.05</h_nota>
+  </elev>
+  <elev>
+    <nume>Ardelean Paul Cosmin</nume>
+    <clasa>12a</clasa>
+    <specializare>Matematică-Informatică</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota>E</a_nota>
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota>REC</c_nota>
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota>REC</d_nota>
+    <e_exam>Limba şi literatura română (REAL) - scris</e_exam>
+    <e_nota>9.5</e_nota>
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică MATE-INFO</g_exam>
+    <g_nota>9.8</g_nota>
+    <h_exam>Informatică MI C/C++</h_exam>
+    <h_nota>8.45</h_nota>
+  </elev>
+  <elev>
+    <nume>Baciu Sebastian</nume>
+    <clasa>12e</clasa>
+    <specializare>Filologie</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Baco Elena Sorina Narcisa</nume>
+    <clasa>12d</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Română</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Bakó Evelyn</nume>
+    <clasa>12b</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română (REAL) - oral</a_exam>
+    <a_nota>E</a_nota>
+    <b_exam>Limba şi literatura maghiară (REAL) - oral</b_exam>
+    <b_nota>E</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota>A2-A2-B1-A2-B1</c_nota>
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota>A</d_nota>
+    <e_exam>Limba şi literatura română (REAL) - scris</e_exam>
+    <e_nota>7.85</e_nota>
+    <f_exam>Limba şi literatura maghiară (REAL) - scris</f_exam>
+    <f_nota>7.95</f_nota>
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota>6.4</g_nota>
+    <h_exam>Biologie vegetală și animală</h_exam>
+    <h_nota>6.7</h_nota>
+  </elev>
+  <elev>
+    <nume>Bakos Arnold</nume>
+    <clasa>12f</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Bakos Bianca Nicoleta</nume>
+    <clasa>12d</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Română</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Balas Anda</nume>
+    <clasa>12a</clasa>
+    <specializare>Matematică-Informatică</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică MATE-INFO</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Balázs Júlia Edina</nume>
+    <clasa>12b</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Bálint Nora Andrea</nume>
+    <clasa>12f</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Balogh Szilamér László</nume>
+    <clasa>12b</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Batori Andreea Corina</nume>
+    <clasa>12c</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Berbecaru Andrei</nume>
+    <clasa>12c</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Bidi Alexandru Robert</nume>
+    <clasa>12d</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Română</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Biscoş Ciprian</nume>
+    <clasa>12e</clasa>
+    <specializare>Filologie</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Blaga Cristian Ioan</nume>
+    <clasa>12a</clasa>
+    <specializare>Matematică-Informatică</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică MATE-INFO</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Blaga Tudor Constantin</nume>
+    <clasa>12a</clasa>
+    <specializare>Matematică-Informatică</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică MATE-INFO</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Blaga Violeta Andreea</nume>
+    <clasa>12a</clasa>
+    <specializare>Matematică-Informatică</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică MATE-INFO</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Bocu Adina Lorena</nume>
+    <clasa>12e</clasa>
+    <specializare>Filologie</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Botos Vilmos Tibor</nume>
+    <clasa>12b</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Câmpean Casiana Ştefana</nume>
+    <clasa>12c</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Ceuşan Alexandra</nume>
+    <clasa>12e</clasa>
+    <specializare>Filologie</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Chirteş Cristina Denisa</nume>
+    <clasa>12e</clasa>
+    <specializare>Filologie</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Chirteş Ruxandra Maria</nume>
+    <clasa>12e</clasa>
+    <specializare>Filologie</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Coprean Andreea Manuela</nume>
+    <clasa>12c</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Cotoară Crina Ileana</nume>
+    <clasa>12c</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Covaciu Tudor Horea</nume>
+    <clasa>12d</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Română</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Crăciun Daniela Maria</nume>
+    <clasa>12e</clasa>
+    <specializare>Filologie</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Cridon Mara Delia</nume>
+    <clasa>12e</clasa>
+    <specializare>Filologie</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Cseh Csaba</nume>
+    <clasa>12f</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Dán Edina Melinda</nume>
+    <clasa>12b</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Dan Ioana</nume>
+    <clasa>12c</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Dascăl Denisa</nume>
+    <clasa>12d</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Română</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Dogar Bogdan Alexandru</nume>
+    <clasa>12d</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Română</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Dragos István</nume>
+    <clasa>12e</clasa>
+    <specializare>Filologie</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Dulăcioiu Alexandra Mihaela</nume>
+    <clasa>12e</clasa>
+    <specializare>Filologie</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Dumbravă Diana Maria</nume>
+    <clasa>12e</clasa>
+    <specializare>Filologie</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Engi Nimrod</nume>
+    <clasa>12f</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Fábián Balázs Dániel</nume>
+    <clasa>12f</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Fanea Ioan Octavian</nume>
+    <clasa>12c</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Fărcaş Roxana Maria</nume>
+    <clasa>12c</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Fárr László</nume>
+    <clasa>12f</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Fazakas Ágota</nume>
+    <clasa>12b</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Fazakas Lehel</nume>
+    <clasa>12f</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Fekete Kinga Tünde</nume>
+    <clasa>12b</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Florea Andra Ioana</nume>
+    <clasa>12c</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Fola Paula Bianca</nume>
+    <clasa>12e</clasa>
+    <specializare>Filologie</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Georgescu Sabina Ligia</nume>
+    <clasa>12a</clasa>
+    <specializare>Matematică-Informatică</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică MATE-INFO</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Gerendi Hanna</nume>
+    <clasa>12b</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Gidofalvi Imola</nume>
+    <clasa>12f</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Gligor Ioana Daniela</nume>
+    <clasa>12d</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Română</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Grama Ioana Alexandra</nume>
+    <clasa>12d</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Română</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Graur Andrieen Anetta</nume>
+    <clasa>12f</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Grec Claudiu</nume>
+    <clasa>12c</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Harpa Dorin Andrei</nume>
+    <clasa>12e</clasa>
+    <specializare>Filologie</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Heşfelean Mihaela Maria</nume>
+    <clasa>12c</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Horea Horea Ştefan</nume>
+    <clasa>12a</clasa>
+    <specializare>Matematică-Informatică</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică MATE-INFO</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Horváth Nora</nume>
+    <clasa>12f</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Ianosi Alexandra Maria</nume>
+    <clasa>12e</clasa>
+    <specializare>Filologie</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Iernuţan Denisa Roxana</nume>
+    <clasa>12a</clasa>
+    <specializare>Matematică-Informatică</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică MATE-INFO</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Ilea Carmen Andreea</nume>
+    <clasa>12d</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Română</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Ilieş Ligia Simona</nume>
+    <clasa>12e</clasa>
+    <specializare>Filologie</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Incze Anna Mária</nume>
+    <clasa>12b</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Iurian Diana Veronica</nume>
+    <clasa>12c</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Iuşan Andreea Diana</nume>
+    <clasa>12a</clasa>
+    <specializare>Matematică-Informatică</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică MATE-INFO</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Jánosi Evelin</nume>
+    <clasa>12b</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Kádár Bernadett</nume>
+    <clasa>12b</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Kádár Csongor Krisztián</nume>
+    <clasa>12f</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Karácsony Zalán</nume>
+    <clasa>12f</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Kedves Róbert</nume>
+    <clasa>12b</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Kelemen Csenge Emőke</nume>
+    <clasa>12b</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Kertész Andrea</nume>
+    <clasa>12b</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Kibédi Tamás</nume>
+    <clasa>12f</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Kiss Tünde Timea</nume>
+    <clasa>12b</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Lăcătuş David</nume>
+    <clasa>12f</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Lazăr Alina</nume>
+    <clasa>12d</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Română</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Lixandru Bianca Ştefania</nume>
+    <clasa>12c</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Loghin Andreea Carla</nume>
+    <clasa>12d</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Română</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Luca Alexandra Giorgiana</nume>
+    <clasa>12d</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Română</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Luca Alexandra Ioana</nume>
+    <clasa>12c</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Luca Sonia Teodora</nume>
+    <clasa>12c</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Lukács Erzsébet</nume>
+    <clasa>12b</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Lukács Zsolt</nume>
+    <clasa>12f</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Maksai Andrea</nume>
+    <clasa>12d</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Română</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Maniţiu Bernadett</nume>
+    <clasa>12f</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Marc Maria</nume>
+    <clasa>12c</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Mărginean Ovidiu</nume>
+    <clasa>12d</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Română</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Mariş Cristian Daniel</nume>
+    <clasa>12f</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Marta Paul Claudiu</nume>
+    <clasa>12e</clasa>
+    <specializare>Filologie</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Matache Rad Cristian</nume>
+    <clasa>12e</clasa>
+    <specializare>Filologie</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Matei Adrian</nume>
+    <clasa>12c</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Matei Maria Alexandra</nume>
+    <clasa>12d</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Română</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Matei Marilena Dumitriţa</nume>
+    <clasa>12c</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Matiş Sorina Miruna</nume>
+    <clasa>12d</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Română</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Milaşcon Laura Rebeca</nume>
+    <clasa>12d</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Română</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Mircea Maria Mădălina</nume>
+    <clasa>12a</clasa>
+    <specializare>Matematică-Informatică</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică MATE-INFO</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Moga Anca Ioana</nume>
+    <clasa>12a</clasa>
+    <specializare>Matematică-Informatică</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică MATE-INFO</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Moisin Denisa Mihaela</nume>
+    <clasa>12c</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Moldovan Andrada Maria</nume>
+    <clasa>12d</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Română</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Moldovan Andrei</nume>
+    <clasa>12a</clasa>
+    <specializare>Matematică-Informatică</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică MATE-INFO</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Moldovan Bianca Diana</nume>
+    <clasa>12d</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Română</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Moldovan Flavius Sebastian</nume>
+    <clasa>12a</clasa>
+    <specializare>Matematică-Informatică</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică MATE-INFO</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Moldovan Iunia Beatrice</nume>
+    <clasa>12e</clasa>
+    <specializare>Filologie</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Moldovan Laurenţiu Vlăduţ Ilie</nume>
+    <clasa>12a</clasa>
+    <specializare>Matematică-Informatică</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică MATE-INFO</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Moldovan Roxana Simona</nume>
+    <clasa>12d</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Română</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Muntean Roxana Nicoleta</nume>
+    <clasa>12c</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Mureşan Sergiu</nume>
+    <clasa>12a</clasa>
+    <specializare>Matematică-Informatică</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică MATE-INFO</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Muşat Andreea</nume>
+    <clasa>12a</clasa>
+    <specializare>Matematică-Informatică</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică MATE-INFO</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Nădăşan Andreea</nume>
+    <clasa>12d</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Română</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Nadrág Bernadett</nume>
+    <clasa>12b</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Nagy Annamária Beáta</nume>
+    <clasa>12b</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Nagy Orsolya</nume>
+    <clasa>12b</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Nagy Szilárd</nume>
+    <clasa>12f</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Nistor Cezara</nume>
+    <clasa>12a</clasa>
+    <specializare>Matematică-Informatică</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică MATE-INFO</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Oancea Ioana Naina</nume>
+    <clasa>12d</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Română</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Oltean Anastasia</nume>
+    <clasa>12e</clasa>
+    <specializare>Filologie</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Oltean Răzvan Daniel</nume>
+    <clasa>12a</clasa>
+    <specializare>Matematică-Informatică</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică MATE-INFO</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Onea Ina Maria</nume>
+    <clasa>12a</clasa>
+    <specializare>Matematică-Informatică</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică MATE-INFO</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Oprea Paula Steliana</nume>
+    <clasa>12d</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Română</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Orbán Orsolya</nume>
+    <clasa>12f</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Ormenişan Mircea</nume>
+    <clasa>12e</clasa>
+    <specializare>Filologie</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Palage Raluca</nume>
+    <clasa>12c</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Pap Loránd Krisztián</nume>
+    <clasa>12b</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Pásztor Boglárka Beáta</nume>
+    <clasa>12b</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Pavel Bogdan Alex</nume>
+    <clasa>12a</clasa>
+    <specializare>Matematică-Informatică</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică MATE-INFO</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Pojoga Ofelia Maria</nume>
+    <clasa>12e</clasa>
+    <specializare>Filologie</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Pojoga Radu Mihai</nume>
+    <clasa>12e</clasa>
+    <specializare>Filologie</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Pologea Ruxandra</nume>
+    <clasa>12c</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Pop Anca Maria</nume>
+    <clasa>12c</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Pop Ştefania Laura</nume>
+    <clasa>12c</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Popa Denisa Gabriela</nume>
+    <clasa>12d</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Română</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Popa Oana</nume>
+    <clasa>12a</clasa>
+    <specializare>Matematică-Informatică</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică MATE-INFO</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Poponuţ Marius Sebastian</nume>
+    <clasa>12e</clasa>
+    <specializare>Filologie</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Purcar Andreea Raluca</nume>
+    <clasa>12d</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Română</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Răuţă Alexandra Raluca</nume>
+    <clasa>12c</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Roşca Mădălina Florina</nume>
+    <clasa>12d</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Română</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Roşianu Mara</nume>
+    <clasa>12a</clasa>
+    <specializare>Matematică-Informatică</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică MATE-INFO</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Sagyebó Emőke Andrea</nume>
+    <clasa>12b</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Sălcudean Nicoleta Diana</nume>
+    <clasa>12d</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Română</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Sand Daniela</nume>
+    <clasa>12d</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Română</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Sântean Claudiu Ionuţ</nume>
+    <clasa>12a</clasa>
+    <specializare>Matematică-Informatică</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică MATE-INFO</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Sarca Bianca Daniela</nume>
+    <clasa>12e</clasa>
+    <specializare>Filologie</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Secară Diana Alexandra</nume>
+    <clasa>12e</clasa>
+    <specializare>Filologie</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Seiranian Meri</nume>
+    <clasa>12d</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Română</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Sfâriac David Christian</nume>
+    <clasa>12e</clasa>
+    <specializare>Filologie</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Siklodi Nikolett</nume>
+    <clasa>12b</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Sita Andreea</nume>
+    <clasa>12c</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Strete Alexandru Sebastian</nume>
+    <clasa>12d</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Română</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Suciu Andra Georgiana</nume>
+    <clasa>12e</clasa>
+    <specializare>Filologie</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Şuteu Alexandru Mihai Octavian</nume>
+    <clasa>12d</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Română</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Sütő Noémi</nume>
+    <clasa>12b</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Szabó Zselyke Dorottya</nume>
+    <clasa>12b</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Szálasi Erika</nume>
+    <clasa>12f</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Szalma Tamás Zsolt</nume>
+    <clasa>12b</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Szántó Krisztián Alex</nume>
+    <clasa>12f</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Székely Szidónia</nume>
+    <clasa>12b</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Szombat Miklos</nume>
+    <clasa>12f</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Tache Mihnea Cristian</nume>
+    <clasa>12d</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Română</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Tálas-Lukács Ervin</nume>
+    <clasa>12f</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Tar Szilvia</nume>
+    <clasa>12f</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Teanc Andrea Ioana</nume>
+    <clasa>12c</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Ţirca Sofia Roxana</nume>
+    <clasa>12d</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Română</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Tolan Cristian</nume>
+    <clasa>12a</clasa>
+    <specializare>Matematică-Informatică</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică MATE-INFO</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Trifan Cătălin Sebastian</nume>
+    <clasa>12e</clasa>
+    <specializare>Filologie</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Trişcă-Zăgreanu Mihaela Simona</nume>
+    <clasa>12d</clasa>
+    <specializare>Ştiinţe Sociale</specializare>
+    <sectia>Română</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Tuns Ana Maria Miruna</nume>
+    <clasa>12e</clasa>
+    <specializare>Filologie</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Turc Răzvan</nume>
+    <clasa>12a</clasa>
+    <specializare>Matematică-Informatică</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică MATE-INFO</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Türkyilmaz Ata Tahsin</nume>
+    <clasa>12a</clasa>
+    <specializare>Matematică-Informatică</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică MATE-INFO</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Vajnár Antonia</nume>
+    <clasa>12e</clasa>
+    <specializare>Filologie</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Varga Edőmér Rolland</nume>
+    <clasa>12b</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Velcherean Alexandra Bianca</nume>
+    <clasa>12a</clasa>
+    <specializare>Matematică-Informatică</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică MATE-INFO</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Vincze Robert Francisc</nume>
+    <clasa>12b</clasa>
+    <specializare>Ştiinţe ale Naturii</specializare>
+    <sectia>Maghiară</sectia>
+    <program_studiu />
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>Limba şi literatura maghiară - oral</b_exam>
+    <b_nota />
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>Limba şi literatura maghiară - scris</f_exam>
+    <f_nota />
+    <g_exam>Matematică ST-NAT</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Vultur Gabriela Flavia</nume>
+    <clasa>12e</clasa>
+    <specializare>Filologie</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Zăhan Sonia</nume>
+    <clasa>12a</clasa>
+    <specializare>Matematică-Informatică</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Matematică MATE-INFO</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>Zogorean Alexandra</nume>
+    <clasa>12e</clasa>
+    <specializare>Filologie</specializare>
+    <sectia>Română</sectia>
+    <program_studiu>Bilingv Engleză</program_studiu>
+    <a_exam>Limba şi literatura română - oral</a_exam>
+    <a_nota />
+    <b_exam>-</b_exam>
+    <b_nota>-</b_nota>
+    <c_exam>Limba engleză</c_exam>
+    <c_nota />
+    <d_exam>Competenţe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română - scris</e_exam>
+    <e_nota />
+    <f_exam>-</f_exam>
+    <f_nota>-</f_nota>
+    <g_exam>Istorie</g_exam>
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>q</nume>
+    <clasa>q</clasa>
+    <specializare>q</specializare>
+    <sectia>q</sectia>
+    <program_studiu>q</program_studiu>
+    <a_exam>q</a_exam>
+    <a_nota>q</a_nota>
+    <b_exam>q</b_exam>
+    <b_nota>q</b_nota>
+    <c_exam>q</c_exam>
+    <c_nota>q</c_nota>
+    <d_exam>q</d_exam>
+    <d_nota>q</d_nota>
+    <e_exam>q</e_exam>
+    <e_nota>q</e_nota>
+    <f_exam>q</f_exam>
+    <f_nota>q</f_nota>
+    <g_exam>q</g_exam>
+    <g_nota>q</g_nota>
+    <h_exam>q</h_exam>
+    <h_nota>q</h_nota>
+  </elev>
+  <elev>
+    <nume>w</nume>
+    <clasa>w</clasa>
+    <specializare>w</specializare>
+    <sectia>w</sectia>
+    <program_studiu>w</program_studiu>
+    <a_exam>w</a_exam>
+    <a_nota>w</a_nota>
+    <b_exam>w</b_exam>
+    <b_nota>w</b_nota>
+    <c_exam>w</c_exam>
+    <c_nota>w</c_nota>
+    <d_exam>w</d_exam>
+    <d_nota>w</d_nota>
+    <e_exam>w</e_exam>
+    <e_nota>w</e_nota>
+    <f_exam>w</f_exam>
+    <f_nota>w</f_nota>
+    <g_exam>w</g_exam>
+    <g_nota>w</g_nota>
+    <h_exam>w</h_exam>
+    <h_nota>w</h_nota>
+  </elev>
+  <elev>
+    <nume>e</nume>
+    <clasa>e</clasa>
+    <specializare>e</specializare>
+    <sectia>e</sectia>
+    <program_studiu>e</program_studiu>
+    <a_exam>e</a_exam>
+    <a_nota>e</a_nota>
+    <b_exam>e</b_exam>
+    <b_nota>e</b_nota>
+    <c_exam>e</c_exam>
+    <c_nota>e</c_nota>
+    <d_exam>e</d_exam>
+    <d_nota>e</d_nota>
+    <e_exam>e</e_exam>
+    <e_nota>e</e_nota>
+    <f_exam>e</f_exam>
+    <f_nota>e</f_nota>
+    <g_exam>e</g_exam>
+    <g_nota>e</g_nota>
+    <h_exam>e</h_exam>
+    <h_nota>e</h_nota>
+  </elev>
+  <elev>
+    <nume />
+    <clasa />
+    <specializare />
+    <sectia />
+    <program_studiu />
+    <a_exam>Limba şi literatura română</a_exam>
+    <a_nota />
+    <b_exam />
+    <b_nota />
+    <c_exam />
+    <c_nota />
+    <d_exam />
+    <d_nota />
+    <e_exam>Limba şi literatura română</e_exam>
+    <e_nota />
+    <f_exam />
+    <f_nota />
+    <g_exam />
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume />
+    <clasa />
+    <specializare />
+    <sectia />
+    <program_studiu />
+    <a_exam>Limba şi literatura română</a_exam>
+    <a_nota />
+    <b_exam />
+    <b_nota />
+    <c_exam />
+    <c_nota />
+    <d_exam />
+    <d_nota />
+    <e_exam>Limba şi literatura română</e_exam>
+    <e_nota />
+    <f_exam />
+    <f_nota />
+    <g_exam />
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume />
+    <clasa />
+    <specializare />
+    <sectia />
+    <program_studiu />
+    <a_exam>Limba şi literatura română</a_exam>
+    <a_nota />
+    <b_exam />
+    <b_nota />
+    <c_exam />
+    <c_nota />
+    <d_exam />
+    <d_nota />
+    <e_exam>Limba şi literatura română</e_exam>
+    <e_nota />
+    <f_exam />
+    <f_nota />
+    <g_exam />
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume />
+    <clasa />
+    <specializare />
+    <sectia />
+    <program_studiu />
+    <a_exam>Limba şi literatura română</a_exam>
+    <a_nota />
+    <b_exam />
+    <b_nota />
+    <c_exam />
+    <c_nota />
+    <d_exam />
+    <d_nota />
+    <e_exam>Limba şi literatura română</e_exam>
+    <e_nota />
+    <f_exam />
+    <f_nota />
+    <g_exam />
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume />
+    <clasa />
+    <specializare />
+    <sectia />
+    <program_studiu />
+    <a_exam>Limba şi literatura română (REAL) - oral</a_exam>
+    <a_nota />
+    <b_exam />
+    <b_nota />
+    <c_exam />
+    <c_nota />
+    <d_exam />
+    <d_nota />
+    <e_exam>Limba şi literatura română (REAL) - scris</e_exam>
+    <e_nota />
+    <f_exam />
+    <f_nota />
+    <g_exam />
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume>bbbb</nume>
+    <clasa />
+    <specializare />
+    <sectia />
+    <program_studiu />
+    <a_exam>Limba şi literatura română (REAL) - oral</a_exam>
+    <a_nota />
+    <b_exam />
+    <b_nota />
+    <c_exam />
+    <c_nota />
+    <d_exam />
+    <d_nota />
+    <e_exam>Limba şi literatura română (REAL) - scris</e_exam>
+    <e_nota />
+    <f_exam />
+    <f_nota />
+    <g_exam />
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+  <elev>
+    <nume />
+    <clasa />
+    <specializare />
+    <sectia />
+    <program_studiu />
+    <a_exam>Limba şi literatura română</a_exam>
+    <a_nota />
+    <b_exam />
+    <b_nota />
+    <c_exam />
+    <c_nota />
+    <d_exam>Competențe digitale</d_exam>
+    <d_nota />
+    <e_exam>Limba şi literatura română</e_exam>
+    <e_nota />
+    <f_exam />
+    <f_nota />
+    <g_exam />
+    <g_nota />
+    <h_exam />
+    <h_nota />
+  </elev>
+</bac2018>
